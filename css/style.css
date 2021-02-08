@@ -131,7 +131,9 @@ input[type="text"] {
 
 @media(min-width: 800px) {
     .navbar-logo {
-        margin-right: 50rem !important;
+        margin-right: 45rem !important;
+        display: flex;
+        align-items: center;
     }
     .navbar ul li a{
         padding-right: 1rem !important;
